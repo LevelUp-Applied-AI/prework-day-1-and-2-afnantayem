@@ -42,7 +42,7 @@
 
 ## Admin Rights Confirmation
 
-**Result:** [Paste command output, or write "Confirmed via System Settings"]
+**Result:** [https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-afnantayem/tree/pr-00-laptop-verify]
 
 ---
 
