@@ -28,3 +28,13 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+## About
+
+[ I am Afnan Mohammed. This repository is for learning how to connect our devices to GitHub and control the repositories and their contents from local devices. ]
+
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/afnantayem-prework.git
+cd afnantayem-prework
